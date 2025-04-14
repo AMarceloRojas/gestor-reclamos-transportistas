@@ -23,7 +23,7 @@ Este proyecto es una *aplicación web interna* que permite registrar, visualizar
 
 # Video Funcionalidad
 
- [](https://www.youtube.com/watch?v=YZO3_J2lDic)
+ [Ver video](https://www.youtube.com/watch?v=YZO3_J2lDic)
 
 
 # Desarrollado por
